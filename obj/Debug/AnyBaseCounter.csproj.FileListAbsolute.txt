@@ -1,0 +1,6 @@
+C:\Users\Jak\Documents\Visual Studio 2015\Projects\AnyBaseCounter\bin\Debug\AnyBaseCounter.exe.config
+C:\Users\Jak\Documents\Visual Studio 2015\Projects\AnyBaseCounter\bin\Debug\AnyBaseCounter.exe
+C:\Users\Jak\Documents\Visual Studio 2015\Projects\AnyBaseCounter\bin\Debug\AnyBaseCounter.pdb
+C:\Users\Jak\Documents\Visual Studio 2015\Projects\AnyBaseCounter\obj\Debug\AnyBaseCounter.csprojResolveAssemblyReference.cache
+C:\Users\Jak\Documents\Visual Studio 2015\Projects\AnyBaseCounter\obj\Debug\AnyBaseCounter.exe
+C:\Users\Jak\Documents\Visual Studio 2015\Projects\AnyBaseCounter\obj\Debug\AnyBaseCounter.pdb
